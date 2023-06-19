@@ -34,7 +34,7 @@ public class Ejercicio08 {
 			System.out.println("Error");
 		}
 		
-		System.out.println("resultado " + resultado);
+		System.out.printf("resultado %.2f", resultado);
 		teclado.close();
 
 	}
